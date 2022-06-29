@@ -7,3 +7,17 @@ I have customised this website to the point it is at now, and intend to continue
 The site is currently hosted through Github pages. This will change eventually, though I will continue to make all source files available here.
 
 Please send any feedback you may have to nreynol7@uwo.ca, until the feedback feature on the site has been built out.
+
+
+Credits:
+
+	Demo Images:
+		Unsplash (unsplash.com)
+
+	Icons:
+		Font Awesome (fontawesome.io)
+
+	Other:
+		jQuery (jquery.com)
+		Scrollex (github.com/ajlkn/jquery.scrollex)
+		Responsive Tools (github.com/ajlkn/responsive-tools)
